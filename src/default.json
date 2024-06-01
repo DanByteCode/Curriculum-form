@@ -1,0 +1,25 @@
+{
+  "name": "",
+  "title": "",
+  "about": "",
+  "contact": [
+    {
+      "type": "Email",
+      "info": "example@mail.com"
+    }
+  ],
+  "work": [
+    {
+      "site": "",
+      "time": "",
+      "position": "",
+      "description": ""
+    }
+  ],
+  "education": [
+    {
+      "title": "",
+      "description": ""
+    }
+  ]
+}
