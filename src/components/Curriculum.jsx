@@ -36,7 +36,7 @@ export default function CV({ data, imgSrc }) {
         {
           data.contact.map((contact) => {
             return <span key={contact.type}>
-              <img src={`src/assets/icon/${contact.type}.svg`} alt={contact.type} /> {contact.info}</span>
+              <img src={`icon/${contact.type}.svg`} alt={contact.type} /> {contact.info}</span>
           })
         }
       </aside>
