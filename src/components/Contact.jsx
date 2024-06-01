@@ -50,7 +50,7 @@ export default function Contact({ data, setData }) {
             </span>
             <br />
             <span>
-              <img src={`src/assets/icon/${contact.type}.svg`} alt={contact.type} />
+              <img src={`icon/${contact.type}.svg`} alt={contact.type} />
               <input name={contact.type} value={contact.info} onChange={(e) => { handleEdit(e, index) }}></input>
             </span>
           </div>
